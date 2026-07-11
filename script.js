@@ -140,7 +140,7 @@ function createParticle(){
 
 setInterval(
     createParticle,
-    9999
+    220
 );
 
 // ==========================
